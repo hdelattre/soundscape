@@ -1,3 +1,7 @@
+# Note 5/1/18:
+
+This app was a project for UC Berkeley's CS 160 Design course in Fall 2015. If you're interested in adapting or improving on this concept feel free to contact me @hdelattre.
+
 # soundscape
 
 Record. Listen. Explore.
